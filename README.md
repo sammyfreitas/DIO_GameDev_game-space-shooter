@@ -26,7 +26,7 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 
 - [Projeto desenvolvido](https://game-space-shooter.vercel.app/)
 
-<!-- <p align="center"><img src="./src/assets/readme/projeto.gif" title="Space Shooter - DIO"></p> -->
+<p align="center"><img src="./src/assets/readme/projeto.gif" title="Space Shooter - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
