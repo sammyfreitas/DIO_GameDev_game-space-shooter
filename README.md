@@ -24,7 +24,7 @@ Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://
 
 Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
 
-<!-- - [Projeto desenvolvido](https://game-memoria-mario.vercel.app/) -->
+- [Projeto desenvolvido](https://game-space-shooter.vercel.app/)
 
 <!-- <p align="center"><img src="./src/assets/readme/projeto.gif" title="Space Shooter - DIO"></p> -->
 
