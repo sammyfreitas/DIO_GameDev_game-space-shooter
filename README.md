@@ -40,4 +40,4 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 - Este projeto está sob a licença [MIT](./LICENSE).
 
 <!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made by Anthony Freitas</a></h4>
